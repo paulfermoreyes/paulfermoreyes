@@ -1,5 +1,6 @@
-### Hi there 👋
-### I am Paul
+### Hi there 👋! I am Paul
+![Badge](https://img.shields.io/badge/role-devops-blue)
+![Badge](https://img.shields.io/badge/aws-certified_saa-orange)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=lorddashme)](https://github.com/LordDashMe/github-contribution-stats/)
 
